@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-anchor-headings-lambda",
   "description": "Add anchor and id to each headings in the book using anchor.js",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "gitbook": "*"
   },
