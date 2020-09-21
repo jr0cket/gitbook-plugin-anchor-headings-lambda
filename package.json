@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-anchor-headings-lambda",
+  "description": "Add anchor and id to each headings in the book using anchor.js",
+  "main": "index.js",
+  "version": "1.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": {
+    "type": "git",
+      "url": "git+https://github.com/jr0cket/gitbook-plugin-anchor-headings-lambda.git"
+  },
+  "keywords": [
+    "gitbook",
+    "anchor",
+    "anchorjs",
+    "lambda",
+    "documentation"
+  ],
+  "author": "John Stevenson.<john@jr0cket.co.uk>",
+  "license": "Creative Commons Zero",
+  "bugs": {
+      "url": "https://github.com/jr0cket/gitbook-plugin-anchor-headings-lambda/issues"
+  },
+    "homepage": "https://github.com/jr0cket/gitbook-plugin-anchor-headings-lambda"
+}
